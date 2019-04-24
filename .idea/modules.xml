@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thread1/Thread1.iml" filepath="$PROJECT_DIR$/Thread1/Thread1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread2/Thread2.iml" filepath="$PROJECT_DIR$/Thread2/Thread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread3/Thread3.iml" filepath="$PROJECT_DIR$/Thread3/Thread3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread4/Thread4.iml" filepath="$PROJECT_DIR$/Thread4/Thread4.iml" />
+    </modules>
+  </component>
+</project>
